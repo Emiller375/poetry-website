@@ -15,3 +15,12 @@ desktop.ini
 
 # Backups / archives
 *.zip
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# TOEFL generator output
+toefl-set-generator/output/
